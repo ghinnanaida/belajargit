@@ -1,2 +1,2 @@
 from urllib.request import AbstractDigestAuthHandler
-xgit
+xgitgit

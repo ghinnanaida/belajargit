@@ -1,1 +1,1 @@
-print('contoh isi')
+print('contoh')
